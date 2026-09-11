@@ -1,0 +1,18 @@
+# Cached Pecaut-Mamajek table (downloaded at runtime)
+EEM_dwarf_UBVIJHK_colors_Teff.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
